@@ -1,0 +1,44 @@
+{
+  "defaultLang": "en",
+  "languages": [
+    { "code": "en", "label": "English" },
+    { "code": "hi", "label": "हिन्दी" },
+    { "code": "es", "label": "Español" },
+    { "code": "fr", "label": "Français" },
+    { "code": "ar", "label": "العربية", "dir": "rtl" }
+  ],
+  "doNotTranslate": ["brand", "target", "icon", "email"],
+  "content": {
+    "title": "Verbo Labs - Home",
+    "brand": "Verbo Labs",
+    "nav": [
+      { "label": "Home", "target": "home" },
+      { "label": "Features", "target": "features" },
+      { "label": "About", "target": "about" },
+      { "label": "Contact", "target": "contact" }
+    ],
+    "hero": {
+      "heading": "Build once, speak every language",
+      "subheading": "A simple page whose content is rendered entirely from a JSON file.",
+      "button": "Get started"
+    },
+    "features": {
+      "heading": "Features",
+      "items": [
+        { "icon": "⚡", "title": "Fast", "text": "Lightweight page with no frameworks or build step." },
+        { "icon": "🌐", "title": "Multilingual", "text": "Switch language instantly without reloading." },
+        { "icon": "🧩", "title": "JSON driven", "text": "Edit the JSON file and the page updates automatically." }
+      ]
+    },
+    "about": {
+      "heading": "About us",
+      "text": "We help teams ship products that work for people in every language."
+    },
+    "contact": {
+      "heading": "Contact",
+      "text": "Questions? Write to us anytime.",
+      "email": "hello@example.com"
+    },
+    "footer": "© 2026 Verbo Labs. All rights reserved."
+  }
+}
