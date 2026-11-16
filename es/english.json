@@ -1,0 +1,44 @@
+{
+  "defaultLang": "Inglés",
+  "languages": [
+    { "code": "en", "label": "Inglés" },
+    { "code": "hi", "label": "hindi" },
+    { "code": "es", "label": "Español" },
+    { "code": "fr", "label": "Francés" },
+    { "code": "ar", "label": "Árabe", "dir": "rtl" }
+  ],
+  "doNotTranslate": ["marca", "objetivo", "icono", "correo electrónico"],
+  "content": {
+    "title": "Verbo Labs - Inicio",
+    "brand": "Verbo Labs",
+    "nav": [
+      { "label": "Inicio", "target": "home" },
+      { "label": "Funciones", "target": "features" },
+      { "label": "Acerca de", "target": "about" },
+      { "label": "Contacto", "target": "contact" }
+    ],
+    "hero": {
+      "heading": "Crea una vez, habla todos los idiomas",
+      "subheading": "Una página sencilla cuyo contenido se muestra íntegramente desde un archivo JSON.",
+      "button": "Comenzar"
+    },
+    "features": {
+      "heading": "Funciones",
+      "items": [
+        { "icon": "⚡", "title": "Rápida", "text": "Página ligera sin frameworks ni pasos de compilación." },
+        { "icon": "🌐", "title": "Multilingüe", "text": "Cambia de idioma al instante sin volver a cargar la página." },
+        { "icon": "🧩", "title": "Basada en JSON", "text": "Edita el archivo JSON y la página se actualiza automáticamente." }
+      ]
+    },
+    "about": {
+      "heading": "Sobre nosotros",
+      "text": "Ayudamos a los equipos a lanzar productos que funcionan para personas de todos los idiomas."
+    },
+    "contact": {
+      "heading": "Contacto",
+      "text": "¿Tienes preguntas? Escríbenos cuando quieras.",
+      "email": "hello@example.com"
+    },
+    "footer": "© 2026 Verbo Labs. Todos los derechos reservados."
+  }
+}
